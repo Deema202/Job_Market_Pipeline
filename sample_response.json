@@ -1,0 +1,160 @@
+{
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "count": 7663,
+    "mean": 75956.11,
+    "results": [
+        {
+            "location": {
+                "display_name": "Belfast, Northern Ireland",
+                "area": [
+                    "UK",
+                    "Northern Ireland",
+                    "Belfast"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "title": "Data Engineer",
+            "created": "2026-11-02T14:18:25Z",
+            "description": "Data Engineer Hands-on Data Engineer role within a fast-growing, AI-forward technology scaleup Modern data lakehouse platform with Python, SQL and AWS focus Belfast based Salary £45,000 to £60,000 UK work authorisation required About the Company Our client is an advanced technology scaleup working with some of the biggest names in security, retail and public safety. Passionate about innovation and reducing risk, they have built a culture defined by openness, transparency and a genuine one-team …",
+            "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5950656036?se=FBMGBXja8RGHEJbGVRSUjg&utm_medium=api&utm_source=36ba781b&v=9708D88C0E5830083557E2FB873BD6FD9D0FEF3C",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRkJNR0JYamE4UkdIRUpiR1ZSU1VqZyIsImkiOiI1OTUwNjU2MDM2In0.HIVFtqHsLv0jX7exR_fW_gckcrLuZFt7IQNMKoMRAFY",
+            "salary_min": 60000,
+            "salary_max": 60000,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Ocho"
+            },
+            "id": "5950656036"
+        },
+        {
+            "created": "2026-10-15T21:10:54Z",
+            "title": "Data Engineer",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "id": "5929415294",
+            "latitude": 55.132,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRkJNR0JYamE4UkdIRUpiR1ZSU1VqZyIsImkiOiI1OTI5NDE1Mjk0In0._wgr4A77PLlb_2pD0WEhsFnTb1wquANpqyzzs21p6Tg",
+            "salary_min": 50000,
+            "salary_max": 50000,
+            "longitude": -6.66845,
+            "description": "Data Engineer Northern Ireland | £45,000-£50,00 hybrid ) Multiple locations available Our client is a well-established local business with a global customer base and a strong people-first culture. They're investing heavily in sustainability and data, and they're looking for a Data Engineer / Analyst to help drive that forward. This is an initial 6-month temporary role with a clear pathway to a permanent position. It's a great opportunity to get your foot in the door, prove your impact and grow …",
+            "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5929415294?se=FBMGBXja8RGHEJbGVRSUjg&utm_medium=api&utm_source=36ba781b&v=566FE37E3B2914DC9333F7EA160926018440A074",
+            "location": {
+                "display_name": "Coleraine, Northern Ireland",
+                "area": [
+                    "UK",
+                    "Northern Ireland",
+                    "Coleraine"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "contract_type": "contract",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "VANRATH",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "location": {
+                "display_name": "Belfast, Northern Ireland",
+                "area": [
+                    "UK",
+                    "Northern Ireland",
+                    "Belfast"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "title": "Data Engineer",
+            "created": "2026-10-19T20:22:24Z",
+            "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5934511224?se=FBMGBXja8RGHEJbGVRSUjg&utm_medium=api&utm_source=36ba781b&v=8F8ED437A05D3A4E9EE97C9F7AAC43865C89DDBE",
+            "description": "Data Engineer An established organisation with a strong focus on technology and data-driven decision-making, this company is continuing to invest in its data capabilities and cloud infrastructure. They are seeking a talented Data Engineer to join their team in Belfast, helping to build reliable data solutions that support business intelligence, analytics and wider digital initiatives. Salary / Benefits Competitive salary, dependent on experience Hybrid working opportunities Exposure to modern d…",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRkJNR0JYamE4UkdIRUpiR1ZSU1VqZyIsImkiOiI1OTM0NTExMjI0In0.GmlZAt2x_CIownlzCForLWl8psmuMfHIjCAq3PGykYs",
+            "salary_min": 45000,
+            "salary_max": 45000,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "VANRATH"
+            },
+            "id": "5934511224"
+        },
+        {
+            "description": "?? Data Engineer | Belfast | Hybrid Were working with an established organisation seeking an experienced Data Engineer to join its growing Data & Analytics team. Youll play a key role in building and maintaining scalable data pipelines and platforms, supporting reporting, analytics and wider data-driven decision making. What youll be doing: Build and maintain ETL/ELT pipelines Develop data warehouses, lakes and data models Work with Microsoft Fabric & SQL Server Support data quality, governance…",
+            "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5938003236?se=FBMGBXja8RGHEJbGVRSUjg&utm_medium=api&utm_source=36ba781b&v=CB2887928C95961FA0176E53479DA14F34795756",
+            "created": "2026-10-22T14:59:23Z",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK",
+                    "Northern Ireland",
+                    "Belfast"
+                ],
+                "display_name": "Belfast, Northern Ireland"
+            },
+            "title": "Data Engineer",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Anson Mccade"
+            },
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "id": "5938003236",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTkzODAwMzIzNiIsInMiOiJGQk1HQlhqYThSR0hFSmJHVlJTVWpnIn0.FJL4R9Xw09yQH9-cnFQmK4oKEY-RIp2usUWd3-vzbKw",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_min": 60000,
+            "salary_max": 60000
+        },
+        {
+            "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5943724677?se=FBMGBXja8RGHEJbGVRSUjg&utm_medium=api&utm_source=36ba781b&v=41837059662CBEA0E5D1CCEDFED9FA045113F2C3",
+            "description": "Data Engineer | Belfast Mid-level Data Engineer (3 years) joining a growing data practice Python, SQL, AWS and a modern data lakehouse platform Shape the data platform behind an AI-forward SaaS product used by major names in security, retail and law enforcement About the Company Their technology helps keep frontline staff safe and reduce risk. They have built a culture around openness, transparency and a one-team spirit, and they are AI-forward in both how they work and what they build. The Rol…",
+            "created": "2026-10-27T19:53:34Z",
+            "salary_is_predicted": "0",
+            "title": "Data Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Belfast, Northern Ireland",
+                "area": [
+                    "UK",
+                    "Northern Ireland",
+                    "Belfast"
+                ]
+            },
+            "id": "5943724677",
+            "company": {
+                "display_name": "Ocho",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "salary_max": 60000,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk0MzcyNDY3NyIsInMiOiJGQk1HQlhqYThSR0hFSmJHVlJTVWpnIn0.hHNLHlzkEqa_c3zmzpFjxy64lPWcACIM8rODmWpo5sk",
+            "salary_min": 60000
+        }
+    ]
+}
